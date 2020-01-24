@@ -22,10 +22,10 @@ public class FieldOfView : MonoBehaviour
 
     void LateUpdate()
     {
-        int rayCount = 50;
+        int rayCount = 90;
         float angle = startingAngle;
         float angleIncrease = fov / rayCount;
-        float viewDistance = 10f;
+        float viewDistance = 20f;
 
         Vector3[] vertices = new Vector3[rayCount + 1 + 1]; // Two rays vertices, one on angle 0 and one on the origin
         Vector2[] uv = new Vector2[vertices.Length]; // Equal to the amount of triangles
