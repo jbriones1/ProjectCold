@@ -16,13 +16,13 @@ public class FieldOfView : MonoBehaviour
     {
         mesh = new Mesh();
         GetComponent<MeshFilter>().mesh = mesh;
-        fov = 90f;
+        fov = 20f;
         origin = Vector3.zero;
     }
 
     void LateUpdate()
     {
-        int rayCount = 90;
+        int rayCount = 2;
         float angle = startingAngle;
         float angleIncrease = fov / rayCount;
         float viewDistance = 20f;
@@ -37,6 +37,8 @@ public class FieldOfView : MonoBehaviour
         for (int i = 0; i <= rayCount; i++)
         {
             Vector3 vertex = Vector3.zero;
+
+            // If this hits a wall
             RaycastHit2D raycastHit2D = Physics2D.Raycast(origin, Utilities.GetVectorFromAngle(angle), viewDistance, layerMask);
 
             if (raycastHit2D.collider == null)

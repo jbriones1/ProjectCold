@@ -17,6 +17,8 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetMouseButtonDown(0))
+            { ChangeGravity(); }
         CheckInput();
     }
 
@@ -25,14 +27,28 @@ public class PlayerMovement : MonoBehaviour
         RigidMovement();
     }
 
+    // Tracks the input for the player
     void CheckInput()
     {
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
+
     }
 
+    // Moves the player as a rigid object
     void RigidMovement()
     {
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+        rb.MoveRotation(rb.rotation);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log(collision.gameObject);
+    }
+
+    private void ChangeGravity()
+    {
+        rb.gravityScale += 1f;
     }
 }
