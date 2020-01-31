@@ -16,16 +16,16 @@ public class FieldOfView : MonoBehaviour
     {
         mesh = new Mesh();
         GetComponent<MeshFilter>().mesh = mesh;
-        fov = 20f;
+        fov = 360f;
         origin = Vector3.zero;
     }
 
     void LateUpdate()
     {
-        int rayCount = 2;
+        int rayCount = 360;
         float angle = startingAngle;
         float angleIncrease = fov / rayCount;
-        float viewDistance = 20f;
+        float viewDistance = 10f;
 
         Vector3[] vertices = new Vector3[rayCount + 1 + 1]; // Two rays vertices, one on angle 0 and one on the origin
         Vector2[] uv = new Vector2[vertices.Length]; // Equal to the amount of triangles
@@ -79,10 +79,11 @@ public class FieldOfView : MonoBehaviour
         this.origin = origin;
     }
 
-    public void SetAimDirection()
+    public void SetAimDirection(float angle)
     {
-        mPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        startingAngle = Utilities.AngleBetweenTwoPoints(mPos, this.origin) + fov / 2f;
+        // mPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        startingAngle = angle;
+        //startingAngle = Utilities.AngleBetweenTwoPoints(mPos, this.origin) + fov / 2f;
     }
 }
 

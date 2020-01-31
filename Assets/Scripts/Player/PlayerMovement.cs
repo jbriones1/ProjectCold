@@ -17,8 +17,6 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
-            { ChangeGravity(); }
         CheckInput();
     }
 
@@ -39,7 +37,7 @@ public class PlayerMovement : MonoBehaviour
     void RigidMovement()
     {
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
-        rb.MoveRotation(rb.rotation);
+        rb.MoveRotation(rb.rotation * 90);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -47,8 +45,4 @@ public class PlayerMovement : MonoBehaviour
         Debug.Log(collision.gameObject);
     }
 
-    private void ChangeGravity()
-    {
-        rb.gravityScale += 1f;
-    }
 }
