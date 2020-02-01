@@ -20,7 +20,6 @@ public class Player : MonoBehaviour
 	{
 		aimDir = Utilities.GetAngleFromVector(transform.rotation.eulerAngles);
 		fov.SetAimDirection(transform.rotation.z);
-		fov.SetOrigin(transform.position);
 	}
 
 }
