@@ -37,7 +37,12 @@ public class PlayerMovement : MonoBehaviour
     void RigidMovement()
     {
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
-        rb.MoveRotation(rb.rotation * 90);
+
+        if (movement != Vector2.zero)
+        {
+            float angle = Mathf.Atan2(movement.y, movement.x) * Mathf.Rad2Deg;
+            transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

@@ -3,7 +3,6 @@
 public class Player : MonoBehaviour
 {
 	[SerializeField] private FieldOfView fov;
-	private float aimDir;
 	private int health;
 	private int i;
 
@@ -18,8 +17,7 @@ public class Player : MonoBehaviour
 	// Update is called once per frame
 	void Update()
 	{
-		aimDir = Utilities.GetAngleFromVector(transform.rotation.eulerAngles);
-		fov.SetAimDirection(transform.rotation.z);
+		fov.SetOrigin(transform.position);
 	}
 
 }
