@@ -81,9 +81,7 @@ public class FieldOfView : MonoBehaviour
 
     public void SetAimDirection(float angle)
     {
-        // mPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         startingAngle = angle;
-        //startingAngle = Utilities.AngleBetweenTwoPoints(mPos, this.origin) + fov / 2f;
     }
 }
 
