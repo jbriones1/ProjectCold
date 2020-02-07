@@ -445,7 +445,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1370662838}
   - component: {fileID: 1370662839}
-  m_Layer: 10
+  m_Layer: 11
   m_Name: fog
   m_TagString: Untagged
   m_Icon: {fileID: 0}
