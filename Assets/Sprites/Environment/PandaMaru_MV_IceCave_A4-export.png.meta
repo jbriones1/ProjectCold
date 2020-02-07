@@ -1,0 +1,2263 @@
+fileFormatVersion: 2
+guid: 572bf87eb5c00574fabc088670c79a9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7869219440874305713
+    second: PandaMaru_MV_IceCave_A4-export_0
+  - first:
+      213: 8042401601020839428
+    second: PandaMaru_MV_IceCave_A4-export_1
+  - first:
+      213: -7927475935477849472
+    second: PandaMaru_MV_IceCave_A4-export_2
+  - first:
+      213: -2789029963538803538
+    second: PandaMaru_MV_IceCave_A4-export_3
+  - first:
+      213: -8997580104483239542
+    second: PandaMaru_MV_IceCave_A4-export_4
+  - first:
+      213: -8201058073597929009
+    second: PandaMaru_MV_IceCave_A4-export_5
+  - first:
+      213: -8284363247503449852
+    second: PandaMaru_MV_IceCave_A4-export_6
+  - first:
+      213: -9141526787005670872
+    second: PandaMaru_MV_IceCave_A4-export_7
+  - first:
+      213: 6596254111308471419
+    second: PandaMaru_MV_IceCave_A4-export_8
+  - first:
+      213: -7507138122299799625
+    second: PandaMaru_MV_IceCave_A4-export_9
+  - first:
+      213: 5117132472749511266
+    second: PandaMaru_MV_IceCave_A4-export_10
+  - first:
+      213: -2459376750402627294
+    second: PandaMaru_MV_IceCave_A4-export_11
+  - first:
+      213: 2326418748582872982
+    second: PandaMaru_MV_IceCave_A4-export_12
+  - first:
+      213: -761421138924825753
+    second: PandaMaru_MV_IceCave_A4-export_13
+  - first:
+      213: 2428391682335506144
+    second: PandaMaru_MV_IceCave_A4-export_14
+  - first:
+      213: 9052685784782488164
+    second: PandaMaru_MV_IceCave_A4-export_15
+  - first:
+      213: -3813826931318308473
+    second: PandaMaru_MV_IceCave_A4-export_16
+  - first:
+      213: 5127514600344846191
+    second: PandaMaru_MV_IceCave_A4-export_17
+  - first:
+      213: -14683440665526759
+    second: PandaMaru_MV_IceCave_A4-export_18
+  - first:
+      213: -5677041640722711042
+    second: PandaMaru_MV_IceCave_A4-export_19
+  - first:
+      213: -2831917936705006241
+    second: PandaMaru_MV_IceCave_A4-export_20
+  - first:
+      213: 3774662403057757958
+    second: PandaMaru_MV_IceCave_A4-export_21
+  - first:
+      213: 5507006255808624509
+    second: PandaMaru_MV_IceCave_A4-export_22
+  - first:
+      213: -5412632962558240947
+    second: PandaMaru_MV_IceCave_A4-export_23
+  - first:
+      213: -635905284103244387
+    second: PandaMaru_MV_IceCave_A4-export_24
+  - first:
+      213: 6558635401630639598
+    second: PandaMaru_MV_IceCave_A4-export_25
+  - first:
+      213: -2579956894856738277
+    second: PandaMaru_MV_IceCave_A4-export_26
+  - first:
+      213: -4948422846470932593
+    second: PandaMaru_MV_IceCave_A4-export_27
+  - first:
+      213: -6554545233048372551
+    second: PandaMaru_MV_IceCave_A4-export_28
+  - first:
+      213: -2464734028554083428
+    second: PandaMaru_MV_IceCave_A4-export_29
+  - first:
+      213: 3618880467730075035
+    second: PandaMaru_MV_IceCave_A4-export_30
+  - first:
+      213: -6512949220490996564
+    second: PandaMaru_MV_IceCave_A4-export_31
+  - first:
+      213: 6441343462894983347
+    second: PandaMaru_MV_IceCave_A4-export_32
+  - first:
+      213: 1037547937443365238
+    second: PandaMaru_MV_IceCave_A4-export_33
+  - first:
+      213: -657921048712266348
+    second: PandaMaru_MV_IceCave_A4-export_34
+  - first:
+      213: -2428324683962147598
+    second: PandaMaru_MV_IceCave_A4-export_35
+  - first:
+      213: -4071524617295672053
+    second: PandaMaru_MV_IceCave_A4-export_36
+  - first:
+      213: -3177876672908632794
+    second: PandaMaru_MV_IceCave_A4-export_37
+  - first:
+      213: 912083008580082698
+    second: PandaMaru_MV_IceCave_A4-export_38
+  - first:
+      213: -3254422387912714046
+    second: PandaMaru_MV_IceCave_A4-export_39
+  - first:
+      213: -3454804839680664922
+    second: PandaMaru_MV_IceCave_A4-export_40
+  - first:
+      213: 970778492676873130
+    second: PandaMaru_MV_IceCave_A4-export_41
+  - first:
+      213: 5801371647627199804
+    second: PandaMaru_MV_IceCave_A4-export_42
+  - first:
+      213: -135398435547277304
+    second: PandaMaru_MV_IceCave_A4-export_43
+  - first:
+      213: 5531201398506947945
+    second: PandaMaru_MV_IceCave_A4-export_44
+  - first:
+      213: 508185865715077264
+    second: PandaMaru_MV_IceCave_A4-export_45
+  - first:
+      213: 6807375552503185631
+    second: PandaMaru_MV_IceCave_A4-export_46
+  - first:
+      213: -7344997200343745151
+    second: PandaMaru_MV_IceCave_A4-export_47
+  - first:
+      213: 5385874520831363420
+    second: PandaMaru_MV_IceCave_A4-export_48
+  - first:
+      213: 596585811526900117
+    second: PandaMaru_MV_IceCave_A4-export_49
+  - first:
+      213: -2883832609957164922
+    second: PandaMaru_MV_IceCave_A4-export_50
+  - first:
+      213: -409399822504495663
+    second: PandaMaru_MV_IceCave_A4-export_51
+  - first:
+      213: -880296822299058641
+    second: PandaMaru_MV_IceCave_A4-export_52
+  - first:
+      213: 7304518823510198900
+    second: PandaMaru_MV_IceCave_A4-export_53
+  - first:
+      213: 2248754604103958523
+    second: PandaMaru_MV_IceCave_A4-export_54
+  - first:
+      213: 4650820319859355246
+    second: PandaMaru_MV_IceCave_A4-export_55
+  - first:
+      213: 6206024996644050739
+    second: PandaMaru_MV_IceCave_A4-export_56
+  - first:
+      213: 2234881620535762119
+    second: PandaMaru_MV_IceCave_A4-export_57
+  - first:
+      213: -3286866122577535840
+    second: PandaMaru_MV_IceCave_A4-export_58
+  - first:
+      213: 4061251972352863234
+    second: PandaMaru_MV_IceCave_A4-export_59
+  - first:
+      213: 861577195830727805
+    second: PandaMaru_MV_IceCave_A4-export_60
+  - first:
+      213: 4428318803588228579
+    second: PandaMaru_MV_IceCave_A4-export_61
+  - first:
+      213: 9180855251467286871
+    second: PandaMaru_MV_IceCave_A4-export_62
+  - first:
+      213: 7665053536114853774
+    second: PandaMaru_MV_IceCave_A4-export_63
+  - first:
+      213: -3142767397567247563
+    second: PandaMaru_MV_IceCave_A4-export_64
+  - first:
+      213: -5237207711530493993
+    second: PandaMaru_MV_IceCave_A4-export_65
+  - first:
+      213: 2572001727483581823
+    second: PandaMaru_MV_IceCave_A4-export_66
+  - first:
+      213: 2931427102520748950
+    second: PandaMaru_MV_IceCave_A4-export_67
+  - first:
+      213: 1575779571608854050
+    second: PandaMaru_MV_IceCave_A4-export_68
+  - first:
+      213: 2246056987070921701
+    second: PandaMaru_MV_IceCave_A4-export_69
+  - first:
+      213: 8727170479428821181
+    second: PandaMaru_MV_IceCave_A4-export_70
+  - first:
+      213: -4922667146439890411
+    second: PandaMaru_MV_IceCave_A4-export_71
+  - first:
+      213: 2403764966801130805
+    second: PandaMaru_MV_IceCave_A4-export_72
+  - first:
+      213: -5749434266633099776
+    second: PandaMaru_MV_IceCave_A4-export_73
+  - first:
+      213: -6531336838361851
+    second: PandaMaru_MV_IceCave_A4-export_74
+  - first:
+      213: 3612566743709723527
+    second: PandaMaru_MV_IceCave_A4-export_75
+  - first:
+      213: -262844791434556618
+    second: PandaMaru_MV_IceCave_A4-export_76
+  - first:
+      213: -7535611915421194367
+    second: PandaMaru_MV_IceCave_A4-export_77
+  - first:
+      213: -5729679697530828951
+    second: PandaMaru_MV_IceCave_A4-export_78
+  - first:
+      213: 5776900990807570512
+    second: PandaMaru_MV_IceCave_A4-export_79
+  - first:
+      213: 4146086001786903177
+    second: PandaMaru_MV_IceCave_A4-export_80
+  - first:
+      213: -3070950801158517963
+    second: PandaMaru_MV_IceCave_A4-export_81
+  - first:
+      213: 5446207804937513599
+    second: PandaMaru_MV_IceCave_A4-export_82
+  - first:
+      213: 4907141645848660808
+    second: PandaMaru_MV_IceCave_A4-export_83
+  - first:
+      213: -1529178278012104190
+    second: PandaMaru_MV_IceCave_A4-export_84
+  - first:
+      213: -6117831142931628514
+    second: PandaMaru_MV_IceCave_A4-export_85
+  - first:
+      213: 5675753929017337063
+    second: PandaMaru_MV_IceCave_A4-export_86
+  - first:
+      213: 1795633702785668660
+    second: PandaMaru_MV_IceCave_A4-export_87
+  - first:
+      213: -8783540267211178904
+    second: PandaMaru_MV_IceCave_A4-export_88
+  - first:
+      213: -4126758221608930631
+    second: PandaMaru_MV_IceCave_A4-export_89
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31c315f34d606e4db1bdfc3443922a1
+      internalID: -7869219440874305713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a4b0c8ed0bb9f45bd68ec0fdaba629
+      internalID: 8042401601020839428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73b887722c7721438464e1f2b59f9c3
+      internalID: -7927475935477849472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab67bca7b2c71d49a6470fa1628cb36
+      internalID: -2789029963538803538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe99cf2e9aa1294daaf0ad7ddab788d
+      internalID: -8997580104483239542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37663d1f522fe3b469d1ebc91ded4864
+      internalID: -8201058073597929009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83b64e854a6ece419421e4ef3f5b95a
+      internalID: -8284363247503449852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b1644b8f3352c4ebc3f32f976dc62a
+      internalID: -9141526787005670872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e39d21002055974484be8d7c025476b
+      internalID: 6596254111308471419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53c4990c0eb15844a19c08f9d19a1f3
+      internalID: -7507138122299799625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0dc758616e79c479f4f156e2665e61
+      internalID: 5117132472749511266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46e7d8ce5f696748a035c1664e7c3eb
+      internalID: -2459376750402627294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b07891553e87c9439260e487e9bcc91
+      internalID: 2326418748582872982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f92dd9d61571c42a6e5fa6f19f30b9
+      internalID: -761421138924825753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8f8ec8ff672c84cbb18732f52de56d
+      internalID: 2428391682335506144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7417a4ae531a594a97fb24a38f2f3a9
+      internalID: 9052685784782488164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb7ba9613b3d1b41a5bf9a90c702d47
+      internalID: -3813826931318308473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49761f262a4b3b41ae7b0f14a0b47d2
+      internalID: 5127514600344846191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a458f5109760b0942a925cabf9eefa32
+      internalID: -14683440665526759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f0cdcf4369dea469fe0fe7b2a2d03a
+      internalID: -5677041640722711042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fa8281d2689a142abcc066e189ef32
+      internalID: -2831917936705006241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f83b8ad1366ca47b0e85b6a8a97a7d
+      internalID: 3774662403057757958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569e0c6dc251e1c4987c64f0bcb5e579
+      internalID: 5507006255808624509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9fa5a70e5eda418df2b211d7223e3
+      internalID: -5412632962558240947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d234e7a478e2547b6bb4bf35a3b55d
+      internalID: -635905284103244387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d631b46774dd647bd3e97e3b2fc8c3
+      internalID: 6558635401630639598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75fdbf7e70c8ad4298221dfb1421483
+      internalID: -2579956894856738277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084afb3291ff56b42b9c48c42fa0deab
+      internalID: -4948422846470932593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efaccc3ea248804eaa336432417482c
+      internalID: -6554545233048372551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c9563c39913334a9d38e2f1629478a
+      internalID: -2464734028554083428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09643ea9e5dc04a47a7d65f23f447f8c
+      internalID: 3618880467730075035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cb5b6330a8bde4b93bdb3f74175cbb
+      internalID: -6512949220490996564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee09d1766492acd4d99aba845ebeed3f
+      internalID: 6441343462894983347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585c50610f07dec43b1dae285d7fb112
+      internalID: 1037547937443365238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c707fb5175a496448b063a667b4613f0
+      internalID: -657921048712266348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b02942a86608ce4f982d9eba5898e2c
+      internalID: -2428324683962147598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b329f14417cbd408be90946d9287c4
+      internalID: -4071524617295672053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64175321d461e664c86ebe9a958a98a1
+      internalID: -3177876672908632794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe04d82793017c040abdd1b1e9acf2fa
+      internalID: 912083008580082698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36db873ef1b6d6b48b63fbb33d62671d
+      internalID: -3254422387912714046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095a13b37f7a04249b56f20e2fd4357b
+      internalID: -3454804839680664922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2b13fc89cb9ba468229ba3503664e4
+      internalID: 970778492676873130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51b5b22b54ec2a439510eeccb1933c3
+      internalID: 5801371647627199804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee6b28f2838dac4195b37ba04ec3923
+      internalID: -135398435547277304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3967ed8bcefc340a4f3b56efde17b3
+      internalID: 5531201398506947945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84b6c99ffbf7b14eaedb8f220a4c24b
+      internalID: 508185865715077264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856de604598ec3540b8c261a45ea9b79
+      internalID: 6807375552503185631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c12b777cdf6b247b6e21f1600ec6ad
+      internalID: -7344997200343745151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323d68cd4ce118f4089a07203bc8e632
+      internalID: 5385874520831363420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc8e054096fd2944a922b2c09bb9599
+      internalID: 596585811526900117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1927e40846338643a6ba917e6b56ce9
+      internalID: -2883832609957164922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0838fa8ec05ca0640bb1af26174fb8f6
+      internalID: -409399822504495663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132152c77885bc84286d12bd804e8096
+      internalID: -880296822299058641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fbbf960d0aebe449dbeb494d78e13d
+      internalID: 7304518823510198900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0001aed6a93b04184eb9d025663564
+      internalID: 2248754604103958523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc9d6e63da2b6047b825e4d62659544
+      internalID: 4650820319859355246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591edb5f2826a8547bcc833a01152bbd
+      internalID: 6206024996644050739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23bfe3c25b90cd48877c931c19211f6
+      internalID: 2234881620535762119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8017f18c6c0fc1d4d878299eb1745027
+      internalID: -3286866122577535840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d8c1fb77524244286224d3951eb621
+      internalID: 4061251972352863234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38b57f9ccd9cef458c6e824ca060669
+      internalID: 861577195830727805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15828b0c661f5b418ba0a123e6d506c
+      internalID: 4428318803588228579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff0a616c6566c946b72325c763e2e40
+      internalID: 9180855251467286871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dc746799ae799438c8040f134f7a8e
+      internalID: 7665053536114853774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14a38ef53ccd014e91831df2fda1305
+      internalID: -3142767397567247563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90417e9eed11307438d4bbaad6a5683e
+      internalID: -5237207711530493993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3acba7747f3b2b45b5064e2ac515a2c
+      internalID: 2572001727483581823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e25c10b32f8ab4bbc285caa0e2d33d
+      internalID: 2931427102520748950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5775e1de35a280a40bf9b0d0879fd074
+      internalID: 1575779571608854050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d836304c5828514380cb7c98a7e405a
+      internalID: 2246056987070921701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef1b891d34544a4eba556180117368c
+      internalID: 8727170479428821181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f7d81a625324745b55083cbc0e0a43
+      internalID: -4922667146439890411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eafd190362e05e4b89ea7e7be0cb156
+      internalID: 2403764966801130805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cc60f23bbeb874185ee286f4851973
+      internalID: -5749434266633099776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f5407a8cea02040ae33da5465ab1df
+      internalID: -6531336838361851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ba62b5e58f65a448960d41fb8973b9
+      internalID: 3612566743709723527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d67adba4110ac47bcc28b65d6658ab
+      internalID: -262844791434556618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cda64370267c248b2416889abc9e24
+      internalID: -7535611915421194367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b236400053bc5a4c86eaea8fd151182
+      internalID: -5729679697530828951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f2a8126b7db564b839fc20452cc885
+      internalID: 5776900990807570512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323a54f2d188ee74fb3cfa7a655cf898
+      internalID: 4146086001786903177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c61e042eb72fb4e8bc3681634ddbaa
+      internalID: -3070950801158517963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef287e3aa06d8064cadfbe5ae217da55
+      internalID: 5446207804937513599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46abdc2ef18668b4ea25e0fa1288dc12
+      internalID: 4907141645848660808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afac564605a107468e98018263ca5e2
+      internalID: -1529178278012104190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98989011ee6221b42be6f28389f249d9
+      internalID: -6117831142931628514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f5931e6ec3181479aa630d687e3a27
+      internalID: 5675753929017337063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406bdc4f11c006a4487aa206bdbaf5c9
+      internalID: 1795633702785668660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7950fbbd2ef7043966eaafb5cfd97e
+      internalID: -8783540267211178904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PandaMaru_MV_IceCave_A4-export_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a070b155bcc9d40940e4147f8be6b6
+      internalID: -4126758221608930631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
