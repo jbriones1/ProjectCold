@@ -9,7 +9,6 @@ public class FieldOfView : MonoBehaviour
     private float fov;
     private Vector3 origin;
     private float startingAngle;
-    private Vector3 mPos;
 
     // Start is called before the first frame update
     void Start()
