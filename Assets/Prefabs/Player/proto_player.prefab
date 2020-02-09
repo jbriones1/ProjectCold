@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 8506611989529656749}
   - component: {fileID: 8506611989529656747}
   - component: {fileID: 8506611989529656746}
+  - component: {fileID: 1391380915}
   m_Layer: 8
   m_Name: proto_player
   m_TagString: Untagged
@@ -73,7 +74,8 @@ SpriteRenderer:
   m_SortingLayerID: 2056345885
   m_SortingLayer: -1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 23be62f7410c3d642b9a2bfc4e08a939, type: 3}
+  m_Sprite: {fileID: 2256908056846621940, guid: ded52c0dd3fe51e49a4a860ab5a178ef,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -146,3 +148,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fov: {fileID: 0}
+  sprite:
+  - {fileID: 2256908056846621940, guid: ded52c0dd3fe51e49a4a860ab5a178ef, type: 3}
+  - {fileID: 6376278280734337083, guid: ded52c0dd3fe51e49a4a860ab5a178ef, type: 3}
+--- !u!114 &1391380915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8506611989529656756}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 963a3fa7492ac17428fd1320fefeae5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectileSpeed: 10
+  playerBullet: {fileID: 206309979, guid: da9e24716b2ad0d4da5617047e207b70, type: 3}
+  projFirePeriod: 0.1
