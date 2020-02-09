@@ -20,7 +20,7 @@ public class LevelController : MonoBehaviour
         {
             Application.Quit();
         }
-        if (Input.anyKeyDown && currSceneIndex != 0)
+        if (Input.anyKey && currSceneIndex == 0)
         {
             SceneManager.LoadScene(currSceneIndex + 1);
         }
